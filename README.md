@@ -2,7 +2,7 @@
 ### Please copy paste below code 
 ```
 module asg {
-    source = "../"
+    source = "sinyaeva1984/asgroup/aws"
     region           = "us-east-1"
     name_prefix      = "foobar"
     image_id         = "ami-0022f774911c1d690"
